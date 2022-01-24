@@ -4,3 +4,5 @@
 
 Tutorials/**/*.gz
 Tutorials/11*/*_operations.json
+
+**/__pycache__
